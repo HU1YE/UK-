@@ -13,3 +13,4 @@ Umum -> sebuah blok kode yang dapat digunakan secara berulang untuk melakukan tu
 Pada python ->  sebuha blok kode yang memiliki nama dan dapat digunakan untuk melakukan tugas tertentu /digunakan untuk mengorganisasi dan mengelompokkan kode ke dalam unit yang dapat dipanggil dan digunakan kembali
 
 # Pseuocode dan Flowchart
+![Gambar Flowchart](https://github.com/rizanhadist/UK-/blob/main/Asset/Flowchart%20Menghitung%20Luas%20Persegi%20Panjang.png)
