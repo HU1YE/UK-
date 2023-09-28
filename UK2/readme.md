@@ -14,4 +14,4 @@ Pada python ->  sebuha blok kode yang memiliki nama dan dapat digunakan untuk me
 
 # Pseuocode dan Flowchart
 ![Gambar Flowchart](https://github.com/rizanhadist/UK-/blob/main/Asset/Flowchart%20Menghitung%20Luas%20Persegi%20Panjang.png)
-![Gambar Flowchart](D:\Pemograman\UK'\Asset\UK2.jpg)
+![Gambar](D:\Pemograman\UK'\Asset\UK2.jpg)
