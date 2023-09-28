@@ -1,13 +1,13 @@
 # 1
-> IF - Elif -> Untuk membuat pilihan berdasarkan beberapa kondisi tertentu.
+1. IF - Elif -> Untuk membuat pilihan berdasarkan beberapa kondisi tertentu.
 ![Alt text](../Asset/UK3/1.jpg)
-> NestedIF -> Untuk membuat pilihan berdasarkan beberapa kondisi tertentu tetapi lebih menguji kondisi yang lebih dalam.
+2. NestedIF -> Untuk membuat pilihan berdasarkan beberapa kondisi tertentu tetapi lebih menguji kondisi yang lebih dalam.
 ![Alt text](../Asset/UK3/Screenshot_1.jpg)
-> Shorthand If Else -> Untuk membuat pilihan berdasarkan beberapa kondisi tertentu dalam satu baris kode.
+3. Shorthand If Else -> Untuk membuat pilihan berdasarkan beberapa kondisi tertentu dalam satu baris kode.
 ![Alt text](../Asset/UK3/2.jpg)
-> IF Multiconditional Untuk membuat pilihan berdasarkan beberapa kondisi tertentu secara bersamaan. 
+4. IF Multiconditional Untuk membuat pilihan berdasarkan beberapa kondisi tertentu secara bersamaan. 
 ![Alt text](../Asset/UK3/Screenshot_2.jpg)
-> IF Pass -> adalah sebuah statetment yang tidak melakukan apa apa
+5. IF Pass -> adalah sebuah statetment yang tidak melakukan apa apa
 ![Alt text](../Asset/UK3/Screenshot_3.jpg)
 
 # 2
